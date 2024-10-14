@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@storyblok/react": "^3.0.14",
+    "local-ssl-proxy": "^2.0.5"
+  }
+}
